@@ -1,0 +1,16 @@
+{
+ "code": "M498",
+ "connector": "RTO-144",
+ "type": "M498 8 X 2 Switcher - User Guide",
+ "series": null,
+ "contacts": "",
+ "verified": null,
+ "derived": false,
+ "variant_of": null,
+ "pins": [],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Engineering/RTO-144/M498/M498.rto144.json"
+ ]
+}
