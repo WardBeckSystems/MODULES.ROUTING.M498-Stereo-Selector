@@ -23,7 +23,7 @@ Wiki page: [M498](../../../../PAGES/M498.md)
 - **Words (OCR):** 34 in 23 lines: WBS · M498 · Interlocked SELECTOR · DESIGNATiON STR IP · Indicate · Swi · SwB ow routing any · nput source · one of ight stereo · npul Pairs · one · cpul pain.
 - **Title block:** (137, 0)–(325, 322) mm: WBS · M498 · Interlocked SELECTOR · Swi · SwB ow routing any · one of ight stereo · npul Pairs · one · cpul pain. · Issue dATE · RE vision · WBS WAAD-BECK systeMS · ENG; · M498 · BXI STEREO SWITCHER M
 
-Every curve, box, word and wire group: [19xx - M498 - 8 X 2 Switcher - User Guide p1 (traced).json](../MANUALS/19xx%20-%20M498%20-%208%20X%202%20Switcher%20-%20User%20Guide%20p1%20(traced).json) (the CAD file: `19xx - M498 - 8 X 2 Switcher - User Guide p1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M498 - 8 X 2 Switcher - User Guide p1 (traced).json](../MANUALS/19xx%20-%20M498%20-%208%20X%202%20Switcher%20-%20User%20Guide%20p1%20%28traced%29.json) (the CAD file: `19xx - M498 - 8 X 2 Switcher - User Guide p1 (traced).dxf`).
 
 ### Page 2
 
@@ -37,7 +37,7 @@ Every curve, box, word and wire group: [19xx - M498 - 8 X 2 Switcher - User Guid
 - **Title block:** (276, 2)–(432, 75) mm: ISSUE |DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN: PMuleey · M498 · ENG · 8XI STEREO SWITCHER MODULE · CKD  Ryl · APP · FUNCTIONAL DIAGRAM · CCALE · ISSUE · 498-01-001
 - **Wiring (first pass):** 70 connected wire groups from 171 runs; labelled ends: 388 mm → Right; 30 mm → LEFT, Right
 
-Every curve, box, word and wire group: [19xx - M498 - 8 X 2 Switcher - User Guide p2 (traced).json](../MANUALS/19xx%20-%20M498%20-%208%20X%202%20Switcher%20-%20User%20Guide%20p2%20(traced).json) (the CAD file: `19xx - M498 - 8 X 2 Switcher - User Guide p2 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M498 - 8 X 2 Switcher - User Guide p2 (traced).json](../MANUALS/19xx%20-%20M498%20-%208%20X%202%20Switcher%20-%20User%20Guide%20p2%20%28traced%29.json) (the CAD file: `19xx - M498 - 8 X 2 Switcher - User Guide p2 (traced).dxf`).
 
 ### Page 3
 
@@ -49,7 +49,7 @@ Every curve, box, word and wire group: [19xx - M498 - 8 X 2 Switcher - User Guid
 - **Words (OCR):** 23 in 21 lines: LEFT · OUTPUI · RIGHI · QUTPUT · 8L 8R · 7R · 6 R · sr · 3 L · 3 R · 2r · NPUTS
 - **Title block:** (168, 15)–(432, 72) mm: Switch ASSEMBLY iS SCHADON TYPE · WBS · AQ /1-070 · WBS WARD-BeCk bybteE · 4498
 
-Every curve, box, word and wire group: [19xx - M498 - 8 X 2 Switcher - User Guide p3 (traced).json](../MANUALS/19xx%20-%20M498%20-%208%20X%202%20Switcher%20-%20User%20Guide%20p3%20(traced).json) (the CAD file: `19xx - M498 - 8 X 2 Switcher - User Guide p3 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M498 - 8 X 2 Switcher - User Guide p3 (traced).json](../MANUALS/19xx%20-%20M498%20-%208%20X%202%20Switcher%20-%20User%20Guide%20p3%20%28traced%29.json) (the CAD file: `19xx - M498 - 8 X 2 Switcher - User Guide p3 (traced).dxf`).
 
 ## Full text
 

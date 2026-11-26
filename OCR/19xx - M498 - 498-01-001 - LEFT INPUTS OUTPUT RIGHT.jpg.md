@@ -23,7 +23,7 @@ Wiki page: [M498](../../../../PAGES/M498.md)
 - **Title block:** (276, 2)–(432, 75) mm: ISSUE |DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · M498 · ENG_ · 8X1 STEREO SWITCHER · MODULE · FUNCTIONAL DIAGRAM · APP · FCALE · ISSUE · 498-01-001
 - **Wiring (first pass):** 70 connected wire groups from 174 runs; labelled ends: 389 mm → Right; 33 mm → LEFT, OUTPUt, Right
 
-Every curve, box, word and wire group: [19xx - M498 - 498-01-001 - LEFT INPUTS OUTPUT RIGHT (traced).json](../SCHEMATICS/19xx%20-%20M498%20-%20498-01-001%20-%20LEFT%20INPUTS%20OUTPUT%20RIGHT%20(traced).json) (the CAD file: `19xx - M498 - 498-01-001 - LEFT INPUTS OUTPUT RIGHT (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M498 - 498-01-001 - LEFT INPUTS OUTPUT RIGHT (traced).json](../SCHEMATICS/19xx%20-%20M498%20-%20498-01-001%20-%20LEFT%20INPUTS%20OUTPUT%20RIGHT%20%28traced%29.json) (the CAD file: `19xx - M498 - 498-01-001 - LEFT INPUTS OUTPUT RIGHT (traced).dxf`).
 
 ## Full text
 

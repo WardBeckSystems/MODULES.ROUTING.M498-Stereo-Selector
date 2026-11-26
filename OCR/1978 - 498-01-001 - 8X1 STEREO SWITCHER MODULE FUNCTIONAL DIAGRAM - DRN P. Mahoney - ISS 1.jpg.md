@@ -36,7 +36,7 @@ Wiki page: [M498](../../../../PAGES/M498.md)
 - **Title block:** (276, 2)–(432, 75) mm: ISSUE |DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · M498 · ENG_ · 8X1 STEREO SWITCHER · MODULE · FUNCTIONAL DIAGRAM · APP · FCALE · ISSUE · 498-01-001
 - **Wiring (first pass):** 70 connected wire groups from 172 runs; labelled ends: 388 mm → RighT; 33 mm → LEFT, OUTPUt, RighT
 
-Every curve, box, word and wire group: [1978 - 498-01-001 - 8X1 STEREO SWITCHER MODULE FUNCTIONAL DIAGRAM - DRN P. Mahoney - ISS 1 (traced).json](../SCHEMATICS/1978%20-%20498-01-001%20-%208X1%20STEREO%20SWITCHER%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20P.%20Mahoney%20-%20ISS%201%20(traced).json) (the CAD file: `1978 - 498-01-001 - 8X1 STEREO SWITCHER MODULE FUNCTIONAL DIAGRAM - DRN P. Mahoney - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - 498-01-001 - 8X1 STEREO SWITCHER MODULE FUNCTIONAL DIAGRAM - DRN P. Mahoney - ISS 1 (traced).json](../SCHEMATICS/1978%20-%20498-01-001%20-%208X1%20STEREO%20SWITCHER%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20P.%20Mahoney%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1978 - 498-01-001 - 8X1 STEREO SWITCHER MODULE FUNCTIONAL DIAGRAM - DRN P. Mahoney - ISS 1 (traced).dxf`).
 
 ## Full text
 

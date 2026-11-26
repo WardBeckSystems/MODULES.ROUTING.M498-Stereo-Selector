@@ -34,7 +34,7 @@ Wiki page: [M498](../../../../PAGES/M498.md)
 - **Words (OCR):** 63 in 54 lines: 7-000 · 6.61 · 6-312 · 3-500 · 688 · 0.195 · 0.I80 · 0-285 · REF, · 0.295 · 0.795 · 1.230
 - **Title block:** (278, 16)–(431, 84) mm: ISSUE (DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN: GEB · ENG GEB 2/87 · M498D · CKD. · EXTRuSioN DETAIL · APP · SCALE · 438-03-068 · ISSUE
 
-Every curve, box, word and wire group: [1987 - 498-03-008 - M498D EXTRUSION DETAIL - DRN GEB - ENG GEB - ISS 1 (traced).json](../MECHANICAL/1987%20-%20498-03-008%20-%20M498D%20EXTRUSION%20DETAIL%20-%20DRN%20GEB%20-%20ENG%20GEB%20-%20ISS%201%20(traced).json) (the CAD file: `1987 - 498-03-008 - M498D EXTRUSION DETAIL - DRN GEB - ENG GEB - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1987 - 498-03-008 - M498D EXTRUSION DETAIL - DRN GEB - ENG GEB - ISS 1 (traced).json](../MECHANICAL/1987%20-%20498-03-008%20-%20M498D%20EXTRUSION%20DETAIL%20-%20DRN%20GEB%20-%20ENG%20GEB%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1987 - 498-03-008 - M498D EXTRUSION DETAIL - DRN GEB - ENG GEB - ISS 1 (traced).dxf`).
 
 ## Full text
 

@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (270, 16)–(432, 84) mm: ISSUEI DATE · REVISION · APP · WBS · WARD-BECK · SYSTEMS · DRN. JRG · 02/87 · ENG. Fa · LINE SELECTORS · CKD_ · SCHEMATIC · APP_ · SCALE DISC NO: 130 · ISSUE · 600-02-005 · CODE: 600505
 - **Wiring (first pass):** 35 connected wire groups from 333 runs; labelled ends: 329 mm → 22,2, 17,U, 18,v, TBI (123) 121,122; 24 mm → SELECTOR; 21 mm → SELECTOR; 20 mm → (126); 12 mm → TBI (123) 121,122
 
-Every curve, box, word and wire group: [19xx - M498 - DOC - 600-02-005 - LINE SELECTORS SCHEMA TIC (traced).json](../SCHEMATICS/19xx%20-%20M498%20-%20DOC%20-%20600-02-005%20-%20LINE%20SELECTORS%20SCHEMA%20TIC%20(traced).json) (the CAD file: `19xx - M498 - DOC - 600-02-005 - LINE SELECTORS SCHEMA TIC (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M498 - DOC - 600-02-005 - LINE SELECTORS SCHEMA TIC (traced).json](../SCHEMATICS/19xx%20-%20M498%20-%20DOC%20-%20600-02-005%20-%20LINE%20SELECTORS%20SCHEMA%20TIC%20%28traced%29.json) (the CAD file: `19xx - M498 - DOC - 600-02-005 - LINE SELECTORS SCHEMA TIC (traced).dxf`).
 
 ## Full text
 

@@ -33,7 +33,7 @@ Schematic of the M498D mono preselector module.
 - **Title block:** (342, 36)–(432, 52) mm: WBS WARD-BECK SYSTEMS
 - **Wiring (first pass):** 31 connected wire groups from 67 runs; labelled ends: 85 mm → SP2; 57 mm → SP1, Sp2; 50 mm → SP1; 48 mm → 540; 40 mm → MLo, 540
 
-Every curve, box, word and wire group: [19xx - 498-02-005 - M498D MONO PRESELECTOR MODULE SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20498-02-005%20-%20M498D%20MONO%20PRESELECTOR%20MODULE%20SCHEMATIC%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 498-02-005 - M498D MONO PRESELECTOR MODULE SCHEMATIC - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 498-02-005 - M498D MONO PRESELECTOR MODULE SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20498-02-005%20-%20M498D%20MONO%20PRESELECTOR%20MODULE%20SCHEMATIC%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 498-02-005 - M498D MONO PRESELECTOR MODULE SCHEMATIC - ISS 1 (traced).dxf`).
 
 ## Full text
 
