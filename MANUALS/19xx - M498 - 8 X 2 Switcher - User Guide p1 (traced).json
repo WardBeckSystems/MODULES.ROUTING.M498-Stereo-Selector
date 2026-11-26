@@ -1,0 +1,92 @@
+{
+ "drawing": "Modules/ROUTING/M498/MANUALS/19xx - M498 - 8 X 2 Switcher - User Guide.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/10de30bbff3e72f8-p1.svg",
+ "sheet": {
+  "number": "498-04-003",
+  "title": "Eight Stereo Input Pairs Hum Stereo Oucput Paita",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1506, 2000],
+  "mm": [325.1, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "3"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [29.6, 0.0, 325.1, 320.8],
+ "outlines": {
+  "line": {"rings": 10, "straight": {"n": 109, "mm": 675.3}, "curved": {"n": 11, "mm": 14.5}},
+  "text": {"rings": 205, "straight": {"n": 1351, "mm": 1320.6}, "curved": {"n": 529, "mm": 714.0}},
+  "tb": {"rings": 127, "straight": {"n": 1524, "mm": 6844.4}, "curved": {"n": 215, "mm": 306.3}}
+ },
+ "circles": [],
+ "boxes": [{"mm": [30.2, 211.8, 98.7, 221.3], "w": 68.4, "h": 9.5, "from": "ring", "words": ["DESIGNATiON", "STR IP", "Indicate", "nput", "source"]}],
+ "text": {
+  "words": 34,
+  "lines": [
+   {"mm": [143.4, 308.5, 152.4, 313.3], "text": "WBS"},
+   {"mm": [169.7, 309.0, 179.4, 312.8], "text": "M498"},
+   {"mm": [224.8, 218.9, 270.1, 223.2], "text": "Interlocked SELECTOR"},
+   {"mm": [31.5, 215.7, 69.5, 220.0], "text": "DESIGNATiON STR IP"},
+   {"mm": [80.7, 215.7, 97.6, 220.0], "text": "Indicate"},
+   {"mm": [224.8, 216.1, 231.2, 220.0], "text": "Swi"},
+   {"mm": [238.8, 215.0, 290.2, 220.0], "text": "SwB ow routing any"},
+   {"mm": [33.2, 212.4, 57.0, 216.3], "text": "nput source"},
+   {"mm": [224.3, 211.8, 265.8, 216.8], "text": "one of ight stereo"},
+   {"mm": [269.0, 211.4, 290.0, 215.8], "text": "npul Pairs"},
+   {"mm": [230.1, 209.2, 237.3, 212.3], "text": "one"},
+   {"mm": [257.1, 208.6, 277.2, 212.4], "text": "cpul pain."},
+   {"mm": [246.3, 44.5, 265.1, 48.3], "text": "Issue dATE"},
+   {"mm": [284.1, 44.5, 299.2, 48.3], "text": "RE vision"},
+   {"mm": [225.8, 33.2, 323.0, 40.9], "text": "WBS WAAD-BECK systeMS"},
+   {"mm": [220.4, 20.3, 228.0, 24.1], "text": "ENG;"},
+   {"mm": [277.6, 22.9, 291.0, 27.7], "text": "M498"},
+   {"mm": [253.5, 17.1, 318.7, 22.3], "text": "BXI STEREO SWITCHER MODULE"},
+   {"mm": [271.8, 11.0, 299.9, 16.5], "text": "FRONT PANEL"},
+   {"mm": [221.1, 9.9, 228.0, 13.8], "text": "APP"},
+   {"mm": [227.6, 5.2, 238.4, 9.5], "text": "SCALE"},
+   {"mm": [311.8, 5.2, 321.9, 9.0], "text": "Issue"},
+   {"mm": [266.9, 0.2, 294.9, 5.5], "text": "498-04-003"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [136.8, 0.0, 325.1, 322.0],
+  "from": "title-block words (training set)",
+  "text": [
+   "WBS",
+   "M498",
+   "Interlocked SELECTOR",
+   "Swi",
+   "SwB ow routing any",
+   "one of ight stereo",
+   "npul Pairs",
+   "one",
+   "cpul pain.",
+   "Issue dATE",
+   "RE vision",
+   "WBS WAAD-BECK systeMS",
+   "ENG;",
+   "M498",
+   "BXI STEREO SWITCHER MODULE",
+   "FRONT PANEL",
+   "APP",
+   "SCALE",
+   "Issue",
+   "498-04-003"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** layout 498-04-003, size B (assumed) 325 × 432 mm, 1506 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 30–325 mm across, 0–321 mm up",
+  "- **Outlines:** line 10 rings, 109 straight (675 mm) / 11 curved (14.5 mm); text 205 rings, 1,351 straight (1,321 mm) / 529 curved (714 mm); tb 127 rings, 1,524 straight (6,844 mm) / 215 curved (306 mm)",
+  "- **Closed boxes:** 1; named: DESIGNATiON STR IP Indicate nput source",
+  "- **Words (OCR):** 34 in 23 lines: WBS · M498 · Interlocked SELECTOR · DESIGNATiON STR IP · Indicate · Swi · SwB ow routing any · nput source · one of ight stereo · npul Pairs · one · cpul pain.",
+  "- **Title block:** (137, 0)–(325, 322) mm: WBS · M498 · Interlocked SELECTOR · Swi · SwB ow routing any · one of ight stereo · npul Pairs · one · cpul pain. · Issue dATE · RE vision · WBS WAAD-BECK systeMS · ENG; · M498 · BXI STEREO SWITCHER M"
+ ]
+}

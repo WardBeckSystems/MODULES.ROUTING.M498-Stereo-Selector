@@ -1,0 +1,88 @@
+{
+ "drawing": "Modules/ROUTING/M498/MANUALS/19xx - M498 - 8 X 2 Switcher - User Guide (2).pdf",
+ "page": 3,
+ "version": 1,
+ "trace": "_traces/ee778439e05d8956-p3.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1127],
+  "mm": [431.8, 243.3],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "3", "pages": "3"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [9.1, -0.2, 431.8, 222.6],
+ "outlines": {
+  "line": {"rings": 393, "straight": {"n": 4098, "mm": 11772.7}, "curved": {"n": 806, "mm": 1079.0}},
+  "text": {"rings": 220, "straight": {"n": 1317, "mm": 1442.6}, "curved": {"n": 442, "mm": 552.4}},
+  "tb": {"rings": 16, "straight": {"n": 224, "mm": 197.4}, "curved": {"n": 56, "mm": 71.7}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [57.6, 172.1, 63.5, 185.0], "w": 5.8, "h": 13.0, "from": "ring"},
+  {"mm": [149.2, 171.9, 155.2, 184.8], "w": 6.0, "h": 13.0, "from": "ring"},
+  {"mm": [195.0, 171.9, 201.0, 184.8], "w": 6.0, "h": 13.0, "from": "ring"},
+  {"mm": [331.0, 171.9, 337.7, 184.4], "w": 6.7, "h": 12.5, "from": "ring"},
+  {"mm": [393.4, 27.2, 425.5, 30.2], "w": 32.2, "h": 3.0, "from": "ring"},
+  {"mm": [363.5, 11.6, 379.6, 14.7], "w": 16.0, "h": 3.1, "from": "ring", "words": ["ht", "EW"]},
+  {"mm": [363.5, 5.2, 379.6, 8.0], "w": 16.0, "h": 2.8, "from": "ring"}
+ ],
+ "text": {
+  "words": 48,
+  "lines": [
+   {"mm": [412.4, 200.4, 422.9, 204.2], "text": "LEFT"},
+   {"mm": [34.8, 195.8, 41.7, 200.6], "text": "a...1"},
+   {"mm": [409.6, 194.3, 423.2, 198.6], "text": "OUTPlJ"},
+   {"mm": [412.2, 175.1, 421.2, 178.5], "text": "RIGH"},
+   {"mm": [409.1, 169.7, 425.3, 173.1], "text": "OUTPU7"},
+   {"mm": [129.1, 163.9, 143.4, 170.8], "text": "\"-O-J"},
+   {"mm": [55.1, 120.7, 65.8, 125.2], "text": "LS"},
+   {"mm": [193.0, 120.9, 203.2, 125.5], "text": "L!S"},
+   {"mm": [342.2, 121.1, 352.6, 127.1], "text": "e:x:"},
+   {"mm": [12.1, 117.2, 16.8, 121.1], "text": "BL"},
+   {"mm": [59.2, 117.7, 63.5, 120.8], "text": "7L"},
+   {"mm": [103.4, 117.7, 107.7, 120.5], "text": "6L"},
+   {"mm": [164.5, 117.9, 166.9, 120.3], "text": "lit"},
+   {"mm": [195.2, 117.4, 199.3, 120.3], "text": "4L"},
+   {"mm": [287.4, 117.7, 291.7, 121.0], "text": "2L"},
+   {"mm": [332.5, 117.2, 335.7, 120.4], "text": "IL"},
+   {"mm": [171.6, 109.7, 187.4, 113.3], "text": "INPU TS"},
+   {"mm": [173.4, 79.0, 187.0, 83.6], "text": "M:JT€5"},
+   {"mm": [177.5, 73.0, 184.2, 76.1], "text": "USe"},
+   {"mm": [185.5, 73.2, 192.6, 76.3], "text": "PCB"},
+   {"mm": [205.3, 73.2, 209.0, 76.3], "text": "110"},
+   {"mm": [177.0, 68.4, 202.3, 71.1], "text": "SliVl TCH SSe'M8"},
+   {"mm": [212.4, 68.2, 239.2, 71.1], "text": "SCIJAOO\"\", YPE"},
+   {"mm": [176.8, 63.0, 191.3, 66.2], "text": "WBS MJ"},
+   {"mm": [193.2, 63.0, 203.6, 66.2], "text": "11- 070"},
+   {"mm": [396.6, 41.2, 411.7, 47.7], "text": "ps"},
+   {"mm": [388.4, 32.8, 404.4, 41.2], "text": "BS"},
+   {"mm": [368.1, 20.5, 429.6, 25.5], "text": "W'E3S] WA RO-BeCK 8Y8T1EMS"},
+   {"mm": [372.0, 16.6, 385.4, 21.9], "text": "tp"},
+   {"mm": [366.8, 10.1, 415.0, 16.7], "text": "ht ax, STE REO SW IIC:HU"},
+   {"mm": [370.7, 11.9, 375.5, 14.8], "text": "EW"},
+   {"mm": [418.0, 10.1, 428.8, 12.8], "text": "MOOl.U"},
+   {"mm": [398.8, 6.5, 414.1, 8.9], "text": "SCH£ MATK"}
+  ]
+ },
+ "title_block": {
+  "mm": [168.2, 16.4, 419.6, 70.9],
+  "from": "title-block words (training set)",
+  "text": ["SliVl TCH SSe'M8", "SCIJAOO\"\", YPE", "WBS MJ", "11- 070", "ps", "BS", "W'E3S] WA RO-BeCK 8Y8T1EMS", "tp"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 432 × 243 mm, 2000 × 1127 px traced (0.216 mm/px)",
+  "- **Ink extent:** 9–432 mm across, 0–223 mm up",
+  "- **Outlines:** line 393 rings, 4,098 straight (11,773 mm) / 806 curved (1,079 mm); text 220 rings, 1,317 straight (1,443 mm) / 442 curved (552 mm); tb 16 rings, 224 straight (197 mm) / 56 curved (71.7 mm)",
+  "- **Closed boxes:** 7; named: ht EW",
+  "- **Words (OCR):** 48 in 33 lines: LEFT · a...1 · OUTPlJ · RIGH · OUTPU7 · \"-O-J · LS · L!S · e:x: · BL · 7L · 6L",
+  "- **Title block:** (168, 16)–(420, 71) mm: SliVl TCH SSe'M8 · SCIJAOO\"\", YPE · WBS MJ · 11- 070 · ps · BS · W'E3S] WA RO-BeCK 8Y8T1EMS · tp"
+ ]
+}

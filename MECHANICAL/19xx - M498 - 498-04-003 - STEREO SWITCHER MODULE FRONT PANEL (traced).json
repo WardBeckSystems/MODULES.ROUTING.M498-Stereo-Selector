@@ -1,0 +1,113 @@
+{
+ "drawing": "Modules/ROUTING/M498/MECHANICAL/19xx - M498 - 498-04-003 - STEREO SWITCHER MODULE FRONT PANEL.jpg",
+ "version": 1,
+ "trace": "_traces/e6f53504a1c8c953.svg",
+ "sheet": {
+  "number": "498-04-003",
+  "title": "Stereo Switcher Module Front Panel",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1534, 2000],
+  "mm": [331.2, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [2.6, 1.3, 331.2, 431.8],
+ "outlines": {
+  "line": {"rings": 49, "straight": {"n": 1318, "mm": 4970.3}, "curved": {"n": 174, "mm": 277.3}},
+  "text": {"rings": 209, "straight": {"n": 1274, "mm": 1237.4}, "curved": {"n": 458, "mm": 597.3}},
+  "tb": {"rings": 110, "straight": {"n": 1290, "mm": 5411.1}, "curved": {"n": 188, "mm": 264.8}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [40.4, 210.9, 105.4, 219.8], "w": 65.0, "h": 8.9, "from": "ring", "words": ["STRIP", "Indicatc", "imput", "sourcc"]},
+  {"mm": [254.1, 57.2, 263.4, 61.7], "w": 9.3, "h": 4.5, "from": "ring", "in_title_block": true},
+  {"mm": [263.8, 57.2, 311.3, 61.7], "w": 47.5, "h": 4.5, "from": "ring", "in_title_block": true},
+  {"mm": [244.4, 52.5, 253.7, 56.8], "w": 9.3, "h": 4.3, "from": "ring", "in_title_block": true},
+  {"mm": [254.1, 52.5, 263.4, 56.8], "w": 9.3, "h": 4.3, "from": "ring", "in_title_block": true},
+  {"mm": [263.8, 52.2, 311.5, 56.8], "w": 47.7, "h": 4.5, "from": "ring", "words": ["Revision"], "in_title_block": true},
+  {"mm": [312.0, 52.2, 320.8, 56.8], "w": 8.9, "h": 4.5, "from": "ring", "words": ["APP"], "in_title_block": true},
+  {"mm": [220.4, 38.9, 320.8, 51.8], "w": 100.4, "h": 13.0, "from": "ring", "words": ["WBS", "WAAD-Beck systeMS"], "in_title_block": true},
+  {
+   "mm": [244.4, 19.4, 321.1, 38.4],
+   "w": 76.7,
+   "h": 19.0,
+   "from": "ring",
+   "words": ["M498", "8X1 STEREO SWITCHER MODULE", "FRONT PANEL"],
+   "in_title_block": true
+  },
+  {"mm": [220.4, 29.1, 244.0, 33.7], "w": 23.5, "h": 4.5, "from": "ring", "words": ["ENG"], "in_title_block": true},
+  {"mm": [220.4, 24.4, 244.0, 28.7], "w": 23.5, "h": 4.3, "from": "ring", "in_title_block": true},
+  {"mm": [220.4, 9.9, 244.0, 19.0], "w": 23.5, "h": 9.1, "from": "ring", "words": ["SCALE"], "in_title_block": true},
+  {"mm": [244.4, 9.9, 253.7, 19.0], "w": 9.3, "h": 9.1, "from": "ring", "in_title_block": true},
+  {"mm": [254.3, 9.7, 302.0, 19.0], "w": 47.7, "h": 9.3, "from": "ring", "words": ["498-04-003"], "in_title_block": true},
+  {"mm": [302.5, 9.7, 321.0, 18.8], "w": 18.6, "h": 9.1, "from": "ring", "words": ["IS SUE"], "in_title_block": true}
+ ],
+ "text": {
+  "words": 31,
+  "lines": [
+   {"mm": [147.7, 302.5, 156.3, 306.8], "text": "WBS"},
+   {"mm": [172.5, 302.5, 182.2, 306.8], "text": "M498"},
+   {"mm": [66.5, 214.2, 77.5, 219.0], "text": "STRIP"},
+   {"mm": [88.3, 214.6, 104.5, 218.4], "text": "Indicatc"},
+   {"mm": [224.8, 217.2, 267.5, 221.7], "text": "Inter |ocked SELECTOR"},
+   {"mm": [251.3, 214.6, 258.4, 218.4], "text": "low"},
+   {"mm": [266.9, 214.0, 286.1, 218.3], "text": "ing of any"},
+   {"mm": [41.9, 211.4, 65.4, 215.2], "text": "imput sourcc"},
+   {"mm": [224.3, 211.4, 230.8, 214.7], "text": "one"},
+   {"mm": [239.9, 210.7, 262.8, 215.0], "text": "ight S LCrEO"},
+   {"mm": [264.7, 210.7, 286.5, 214.6], "text": "inout Pairs"},
+   {"mm": [230.1, 208.1, 272.9, 211.2], "text": "one stereo outpui paie"},
+   {"mm": [280.9, 52.7, 295.4, 56.5], "text": "Revision"},
+   {"mm": [313.3, 52.7, 319.7, 56.0], "text": "APP"},
+   {"mm": [226.3, 42.1, 317.8, 48.6], "text": "WBS WAAD-Beck systeMS"},
+   {"mm": [275.1, 32.2, 287.6, 37.0], "text": "M498"},
+   {"mm": [221.1, 29.4, 227.6, 33.2], "text": "ENG"},
+   {"mm": [252.4, 26.1, 313.5, 31.4], "text": "8X1 STEREO SWITCHER MODULE"},
+   {"mm": [269.2, 20.7, 296.2, 25.5], "text": "FRONT PANEL"},
+   {"mm": [221.1, 19.6, 228.2, 23.5], "text": "APP"},
+   {"mm": [226.9, 15.3, 237.3, 19.2], "text": "SCALE"},
+   {"mm": [264.7, 10.6, 291.7, 15.4], "text": "498-04-003"},
+   {"mm": [307.4, 14.9, 316.5, 18.7], "text": "IS SUE"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [141.0, 6.7, 326.5, 315.5],
+  "from": "title-block words (training set)",
+  "text": [
+   "WBS",
+   "M498",
+   "Inter |ocked SELECTOR",
+   "low",
+   "ing of any",
+   "one",
+   "ight S LCrEO",
+   "inout Pairs",
+   "one stereo outpui paie",
+   "Revision",
+   "APP",
+   "WBS WAAD-Beck systeMS",
+   "M498",
+   "ENG",
+   "8X1 STEREO SWITCHER MODULE",
+   "FRONT PANEL",
+   "APP",
+   "SCALE",
+   "498-04-003",
+   "IS SUE"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** layout 498-04-003, size B (assumed) 331 × 432 mm, 1534 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 3–331 mm across, 1–432 mm up",
+  "- **Outlines:** line 49 rings, 1,318 straight (4,970 mm) / 174 curved (277 mm); text 209 rings, 1,274 straight (1,237 mm) / 458 curved (597 mm); tb 110 rings, 1,290 straight (5,411 mm) / 188 curved (265 mm)",
+  "- **Closed boxes:** 15 (14 in the title block); named: STRIP Indicatc imput sourcc",
+  "- **Words (OCR):** 31 in 23 lines: WBS · M498 · STRIP · Indicatc · Inter |ocked SELECTOR · low · ing of any · imput sourcc · one · ight S LCrEO · inout Pairs · one stereo outpui paie",
+  "- **Title block:** (141, 7)–(326, 316) mm: WBS · M498 · Inter |ocked SELECTOR · low · ing of any · one · ight S LCrEO · inout Pairs · one stereo outpui paie · Revision · APP · WBS WAAD-Beck systeMS · M498 · ENG · 8X1 STEREO SWITCHER MODULE · F"
+ ]
+}

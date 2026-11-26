@@ -1,0 +1,80 @@
+{
+ "drawing": "Modules/ROUTING/M498/MANUALS/19xx - M498 - 8 X 2 Switcher - User Guide.pdf",
+ "page": 3,
+ "version": 1,
+ "trace": "_traces/10de30bbff3e72f8-p3.svg",
+ "sheet": {
+  "number": "",
+  "title": "Sterec Switcher Modulz Schematic",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1127],
+  "mm": [431.8, 243.3],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "3", "pages": "3"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [9.1, -0.1, 431.8, 222.6],
+ "outlines": {
+  "line": {"rings": 463, "straight": {"n": 4342, "mm": 12074.2}, "curved": {"n": 835, "mm": 1096.3}},
+  "text": {"rings": 126, "straight": {"n": 952, "mm": 1001.3}, "curved": {"n": 336, "mm": 435.8}},
+  "tb": {"rings": 13, "straight": {"n": 141, "mm": 178.8}, "curved": {"n": 34, "mm": 41.4}}
+ },
+ "circles": [{"c": [208.1, 75.3], "r": 1.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [
+  {"mm": [57.6, 172.1, 63.6, 185.0], "w": 5.9, "h": 13.0, "from": "ring"},
+  {"mm": [103.2, 172.1, 109.5, 185.0], "w": 6.3, "h": 13.0, "from": "ring"},
+  {"mm": [239.6, 171.9, 245.7, 184.8], "w": 6.0, "h": 13.0, "from": "ring"},
+  {"mm": [330.8, 171.9, 337.5, 184.6], "w": 6.7, "h": 12.8, "from": "ring"},
+  {"mm": [160.8, 123.5, 163.2, 126.1], "w": 2.4, "h": 2.5, "from": "ring"},
+  {"mm": [380.0, 27.6, 386.2, 30.4], "w": 6.3, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [386.7, 27.6, 392.7, 30.4], "w": 6.0, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [393.2, 27.2, 425.5, 30.2], "w": 32.4, "h": 3.0, "from": "ring", "in_title_block": true},
+  {"mm": [363.6, 11.7, 379.6, 14.7], "w": 16.0, "h": 3.0, "from": "ring"},
+  {"mm": [363.6, 5.2, 379.6, 8.0], "w": 16.0, "h": 2.8, "from": "ring"}
+ ],
+ "text": {
+  "words": 23,
+  "lines": [
+   {"mm": [411.1, 199.3, 424.0, 204.8], "text": "LEFT"},
+   {"mm": [408.3, 193.2, 427.7, 200.7], "text": "OUTPUI"},
+   {"mm": [411.5, 174.0, 425.1, 179.5], "text": "RIGHI"},
+   {"mm": [409.3, 168.6, 426.2, 173.4], "text": "QUTPUT"},
+   {"mm": [11.7, 117.9, 30.0, 121.7], "text": "8L 8R"},
+   {"mm": [72.1, 117.9, 77.9, 121.7], "text": "7R"},
+   {"mm": [116.8, 117.9, 122.8, 121.7], "text": "6 R"},
+   {"mm": [161.7, 117.4, 167.5, 121.3], "text": "sr"},
+   {"mm": [239.4, 117.4, 245.3, 121.3], "text": "3 L"},
+   {"mm": [252.4, 117.4, 258.2, 121.3], "text": "3 R"},
+   {"mm": [298.8, 117.4, 304.6, 121.3], "text": "2r"},
+   {"mm": [171.4, 109.9, 188.7, 114.2], "text": "NPUTS"},
+   {"mm": [172.5, 79.0, 189.1, 84.5], "text": "NQTES:"},
+   {"mm": [176.8, 67.8, 239.9, 72.1], "text": "Switch ASSEMBLY iS SCHADON TYPE"},
+   {"mm": [176.2, 62.8, 184.8, 66.7], "text": "WBS"},
+   {"mm": [186.5, 62.8, 204.9, 67.1], "text": "AQ /1-070"},
+   {"mm": [367.9, 20.3, 430.5, 24.6], "text": "WBS WARD-BeCk bybteE"},
+   {"mm": [400.7, 13.2, 410.4, 17.0], "text": "4498"},
+   {"mm": [391.0, 9.5, 429.4, 13.3], "text": "STEREC SwICHER MODul?"},
+   {"mm": [398.1, 5.6, 414.7, 9.5], "text": "SCHEMATIC"},
+   {"mm": [394.9, 0.0, 411.5, 2.9], "text": "498-02-001"}
+  ]
+ },
+ "title_block": {
+  "mm": [167.6, 15.4, 431.8, 71.5],
+  "from": "title-block words (training set)",
+  "text": ["Switch ASSEMBLY iS SCHADON TYPE", "WBS", "AQ /1-070", "WBS WARD-BeCk bybteE", "4498"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 432 × 243 mm, 2000 × 1127 px traced (0.216 mm/px)",
+  "- **Ink extent:** 9–432 mm across, 0–223 mm up",
+  "- **Outlines:** line 463 rings, 4,342 straight (12,074 mm) / 835 curved (1,096 mm); text 126 rings, 952 straight (1,001 mm) / 336 curved (436 mm); tb 13 rings, 141 straight (179 mm) / 34 curved (41.4 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.3 @ (208.1, 75.3)",
+  "- **Closed boxes:** 10 (3 in the title block)",
+  "- **Words (OCR):** 23 in 21 lines: LEFT · OUTPUI · RIGHI · QUTPUT · 8L 8R · 7R · 6 R · sr · 3 L · 3 R · 2r · NPUTS",
+  "- **Title block:** (168, 15)–(432, 72) mm: Switch ASSEMBLY iS SCHADON TYPE · WBS · AQ /1-070 · WBS WARD-BeCk bybteE · 4498"
+ ]
+}
