@@ -1,17 +1,17 @@
-# M498 · Routing
+# M498 Stereo Selector · Routing
 
 Ward-Beck Systems M498, 1978|11. Wiki page: [M498 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M498.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 29 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 8 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 4 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 88 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 3 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 6 |
-| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 27 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 39 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 10 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 5 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 118 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 5 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 14 |
+| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 25 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
 
@@ -26,8 +26,6 @@ _Photographs of the module itself: front, back, inside, racked._
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSHNEZ1VtOGt6TzQ/view?resourcekey=0-djIbfh0M2IFgMzuYIJsKfQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSHNEZ1VtOGt6TzQ&resourcekey=0-djIbfh0M2IFgMzuYIJsKfQ" width="240" alt="19xx - M498 - Stereo Setector.jpg"></a><br><sub>19xx - M498 - Stereo Setector</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSUx3enhrbWdVODg/view?resourcekey=0-AFl1RrVhsxmAz9zkqnPTaA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSUx3enhrbWdVODg&resourcekey=0-AFl1RrVhsxmAz9zkqnPTaA" width="240" alt="19xx - M498 - front.png"></a><br><sub>19xx - M498 - front</sub></td></tr>
 </table>
-
-Shared privately on Google Drive (opens after sign-in): [19xx - M498 - Stereo Setector_small](https://drive.google.com/file/d/0B0yR0b5T78SKbVJoQ0JBWWtoaFU/view?resourcekey=0-YdYMwj4gPIDPMjBWyrwCPQ)
 
 ## Mechanical
 
@@ -44,12 +42,11 @@ Not on Google Drive yet: `1987 - 498-03-008 - M498D EXTRUSION DETAIL - DRN GEB -
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1nJeQ_Iu1uv8ogrX0tFetqlUTM2GrXESA/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1nJeQ_Iu1uv8ogrX0tFetqlUTM2GrXESA" width="240" alt="1992 - M498 - DOC - 920383-01-001 - MONITOR MQDULE SWTCHEO DIRECT FUTURE MONITOR OUTPUTS.jpg"></a><br><sub>1992|25 · DOC - 920383-01-001 - MONITOR MQDULE SWTCHEO DIRECT FUTURE MONITOR OUTPUTS</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1aGG8xWnzGMeiGeYRfunP1sASPWjHuOpw/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1aGG8xWnzGMeiGeYRfunP1sASPWjHuOpw" width="240" alt="1992 - M498 - DOC - 920384-01-001 - START STOP RESET LINE SELECTOR CUTPUTS.jpg"></a><br><sub>1992|25 · DOC - 920384-01-001 - START STOP RESET LINE SELECTOR CUTPUTS</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1dzQuhcHLqZHYuCyZf_ADrXlexs0zpLmo/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1dzQuhcHLqZHYuCyZf_ADrXlexs0zpLmo" width="240" alt="1992 - M498 - DOC - 920477-01-001 - OHMS SWTCHED SSUE REMSION FUTURE FUTURE.jpg"></a><br><sub>1992|25 · DOC - 920477-01-001 - OHMS SWTCHED SSUE REMSION FUTURE FUTURE</sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKY0FUd0hHbG9RcjQ/view?resourcekey=0-H5gm_V89TwtDlYjeVIJ69A" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKY0FUd0hHbG9RcjQ&resourcekey=0-H5gm_V89TwtDlYjeVIJ69A" width="240" alt="19xx - M498 - 498-01-001 - LEFT INPUTS OUTPUT RIGHT.jpg"></a><br><sub>19xx - M498 - 498-01-001 - LEFT INPUTS OUTPUT RIGHT · <a href="SCHEMATICS/19xx%20-%20M498%20-%20498-01-001%20-%20LEFT%20INPUTS%20OUTPUT%20RIGHT%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKc2RhYVlmeEF5MXc/view?resourcekey=0-MdmQXLUD4JhQnxXcitRAew" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKc2RhYVlmeEF5MXc&resourcekey=0-MdmQXLUD4JhQnxXcitRAew" width="240" alt="19xx - M498 - 8 X 1 - Schematic.jpg"></a><br><sub>19xx - M498 - 8 X 1 - Schematic</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1EM_QWnJ-EHbsow6ZKiUSpy-8G_yqNXzj/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1EM_QWnJ-EHbsow6ZKiUSpy-8G_yqNXzj" width="240" alt="19xx - M498 - DOC - 600-02-005 - LINE SELECTORS SCHEMA TIC.png"></a><br><sub>19xx - M498 - DOC - 600-02-005 - LINE SELECTORS SCHEMA TIC</sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1uNZQpFQsRJmutVdnGzn-J-Fj0CyRnUUP/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1uNZQpFQsRJmutVdnGzn-J-Fj0CyRnUUP" width="240" alt="2006 - M498 - DOC - 920063-01-001 - MONIORMQDULE SWTCHED DIRECT SSUE REMSION.jpg"></a><br><sub>2006|39 · DOC - 920063-01-001 - MONIORMQDULE SWTCHED DIRECT SSUE REMSION</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1nJeQ_Iu1uv8ogrX0tFetqlUTM2GrXESA/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1nJeQ_Iu1uv8ogrX0tFetqlUTM2GrXESA" width="240" alt="1992 - M498 - DOC - 920383-01-001 - MONITOR MQDULE SWTCHEO DIRECT FUTURE MONITOR OUTPUTS.jpg"></a><br><sub>1992|25 · DOC - 920383-01-001 - MONITOR MQDULE SWTCHEO DIRECT FUTURE MONITOR OUTPUTS · <a href="SCHEMATICS/1992%20-%20M498%20-%20DOC%20-%20920383-01-001%20-%20MONITOR%20MQDULE%20SWTCHEO%20DIRECT%20FUTURE%20MONITOR%20OUTPUTS%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1aGG8xWnzGMeiGeYRfunP1sASPWjHuOpw/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1aGG8xWnzGMeiGeYRfunP1sASPWjHuOpw" width="240" alt="1992 - M498 - DOC - 920384-01-001 - START STOP RESET LINE SELECTOR CUTPUTS.jpg"></a><br><sub>1992|25 · DOC - 920384-01-001 - START STOP RESET LINE SELECTOR CUTPUTS · <a href="SCHEMATICS/1992%20-%20M498%20-%20DOC%20-%20920384-01-001%20-%20START%20STOP%20RESET%20LINE%20SELECTOR%20CUTPUTS%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1dzQuhcHLqZHYuCyZf_ADrXlexs0zpLmo/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1dzQuhcHLqZHYuCyZf_ADrXlexs0zpLmo" width="240" alt="1992 - M498 - DOC - 920477-01-001 - OHMS SWTCHED SSUE REMSION FUTURE FUTURE.jpg"></a><br><sub>1992|25 · DOC - 920477-01-001 - OHMS SWTCHED SSUE REMSION FUTURE FUTURE · <a href="SCHEMATICS/1992%20-%20M498%20-%20DOC%20-%20920477-01-001%20-%20OHMS%20SWTCHED%20SSUE%20REMSION%20FUTURE%20FUTURE%20(EXTRACTED).svg">vectors</a></sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKc2RhYVlmeEF5MXc/view?resourcekey=0-MdmQXLUD4JhQnxXcitRAew" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKc2RhYVlmeEF5MXc&resourcekey=0-MdmQXLUD4JhQnxXcitRAew" width="240" alt="19xx - M498 - 8 X 1 - Schematic.jpg"></a><br><sub>19xx - M498 - 8 X 1 - Schematic · <a href="SCHEMATICS/19xx%20-%20M498%20-%208%20X%201%20-%20Schematic%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1EM_QWnJ-EHbsow6ZKiUSpy-8G_yqNXzj/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1EM_QWnJ-EHbsow6ZKiUSpy-8G_yqNXzj" width="240" alt="19xx - M498 - DOC - 600-02-005 - LINE SELECTORS SCHEMA TIC.png"></a><br><sub>19xx - M498 - DOC - 600-02-005 - LINE SELECTORS SCHEMA TIC · <a href="SCHEMATICS/19xx%20-%20M498%20-%20DOC%20-%20600-02-005%20-%20LINE%20SELECTORS%20SCHEMA%20TIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1uNZQpFQsRJmutVdnGzn-J-Fj0CyRnUUP/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1uNZQpFQsRJmutVdnGzn-J-Fj0CyRnUUP" width="240" alt="2006 - M498 - DOC - 920063-01-001 - MONIORMQDULE SWTCHED DIRECT SSUE REMSION.jpg"></a><br><sub>2006|39 · DOC - 920063-01-001 - MONIORMQDULE SWTCHED DIRECT SSUE REMSION · <a href="SCHEMATICS/2006%20-%20M498%20-%20DOC%20-%20920063-01-001%20-%20MONIORMQDULE%20SWTCHED%20DIRECT%20SSUE%20REMSION%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1978 - 498-01-001 - 8X1 STEREO SWITCHER MODULE FUNCTIONAL DIAGRAM - DRN P. Mahoney - ISS 1.jpg`, `19xx - 498-02-005 - M498D MONO PRESELECTOR MODULE SCHEMATIC - ISS 1.png`, `M498 - 8 X 1 - Functional Diagram.jpg`
+Not on Google Drive yet: `1978 - 498-01-001 - 8X1 STEREO SWITCHER MODULE FUNCTIONAL DIAGRAM - DRN P. Mahoney - ISS 1.jpg`, `19xx - 498-02-005 - M498D MONO PRESELECTOR MODULE SCHEMATIC - ISS 1.png`
 
 ## Pinouts
 
@@ -82,11 +79,23 @@ Shared privately on Google Drive (opens after sign-in): [1990|23 · DOC - CHIN R
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
 
 - [1978 - 498-01-001 - 8X1 STEREO SWITCHER MODULE FUNCTIONAL DIAGRAM - DRN P. Mahoney - ISS 1.kicad_sch](KICAD/1978%20-%20498-01-001%20-%208X1%20STEREO%20SWITCHER%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20P.%20Mahoney%20-%20ISS%201.kicad_sch)
+- [1992 - M498 - DOC - 920383-01-001 - MONITOR MQDULE SWTCHEO DIRECT FUTURE MONITOR OUTPUTS.kicad_sch](KICAD/1992%20-%20M498%20-%20DOC%20-%20920383-01-001%20-%20MONITOR%20MQDULE%20SWTCHEO%20DIRECT%20FUTURE%20MONITOR%20OUTPUTS.kicad_sch)
+- [1992 - M498 - DOC - 920384-01-001 - START STOP RESET LINE SELECTOR CUTPUTS.kicad_sch](KICAD/1992%20-%20M498%20-%20DOC%20-%20920384-01-001%20-%20START%20STOP%20RESET%20LINE%20SELECTOR%20CUTPUTS.kicad_sch)
+- [1992 - M498 - DOC - 920477-01-001 - OHMS SWTCHED SSUE REMSION FUTURE FUTURE.kicad_sch](KICAD/1992%20-%20M498%20-%20DOC%20-%20920477-01-001%20-%20OHMS%20SWTCHED%20SSUE%20REMSION%20FUTURE%20FUTURE.kicad_sch)
 - [19xx - 498-02-005 - M498D MONO PRESELECTOR MODULE SCHEMATIC - ISS 1.kicad_sch](KICAD/19xx%20-%20498-02-005%20-%20M498D%20MONO%20PRESELECTOR%20MODULE%20SCHEMATIC%20-%20ISS%201.kicad_sch)
 - [19xx - M498 - 498-01-001 - LEFT INPUTS OUTPUT RIGHT.kicad_sch](KICAD/19xx%20-%20M498%20-%20498-01-001%20-%20LEFT%20INPUTS%20OUTPUT%20RIGHT.kicad_sch)
+- [19xx - M498 - 8 X 1 - Schematic.kicad_sch](KICAD/19xx%20-%20M498%20-%208%20X%201%20-%20Schematic.kicad_sch)
 - [19xx - M498 - 8 X 2 Switcher - User Guide (2) p2.kicad_sch](KICAD/19xx%20-%20M498%20-%208%20X%202%20Switcher%20-%20User%20Guide%20(2)%20p2.kicad_sch)
 - [19xx - M498 - 8 X 2 Switcher - User Guide p2.kicad_sch](KICAD/19xx%20-%20M498%20-%208%20X%202%20Switcher%20-%20User%20Guide%20p2.kicad_sch)
+- [19xx - M498 - DOC - 600-02-005 - LINE SELECTORS SCHEMA TIC.kicad_sch](KICAD/19xx%20-%20M498%20-%20DOC%20-%20600-02-005%20-%20LINE%20SELECTORS%20SCHEMA%20TIC.kicad_sch)
+- [2006 - M498 - DOC - 920063-01-001 - MONIORMQDULE SWTCHED DIRECT SSUE REMSION.kicad_sch](KICAD/2006%20-%20M498%20-%20DOC%20-%20920063-01-001%20-%20MONIORMQDULE%20SWTCHED%20DIRECT%20SSUE%20REMSION.kicad_sch)
+- [M498 - 8 X 1 - Functional Diagram.kicad_sch](KICAD/M498%20-%208%20X%201%20-%20Functional%20Diagram.kicad_sch)
 - [M498.kicad_sym](KICAD/M498.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
