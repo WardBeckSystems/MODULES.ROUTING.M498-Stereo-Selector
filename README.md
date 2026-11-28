@@ -4,13 +4,12 @@ Ward-Beck Systems M498, 1978|11. Wiki page: [M498 on WBSps.ca](https://wardbecks
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 39 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 10 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 5 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 118 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 5 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 14 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 38 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 11 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 4 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 117 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 4 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 13 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 25 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -35,8 +34,6 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKNEhiMG9wX2xGUFk/view?resourcekey=0-AStyVbj44X0Dpp-UwMz4ZQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKNEhiMG9wX2xGUFk&resourcekey=0-AStyVbj44X0Dpp-UwMz4ZQ" width="240" alt="19xx - M498 - 498-04-003 - STEREO SWITCHER MODULE FRONT PANEL.jpg"></a><br><sub>19xx - M498 - 498-04-003 - STEREO SWITCHER MODULE FRONT PANEL · <a href="MECHANICAL/19xx%20-%20M498%20-%20498-04-003%20-%20STEREO%20SWITCHER%20MODULE%20FRONT%20PANEL%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1987 - 498-03-008 - M498D EXTRUSION DETAIL - DRN GEB - ENG GEB - ISS 1.jpg`
-
 ## 3-D model
 
 [`MECHANICAL/M498.stl`](MECHANICAL/M498.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M498)
@@ -55,13 +52,9 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKc2RhYVlmeEF5MXc/view?resourcekey=0-MdmQXLUD4JhQnxXcitRAew" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKc2RhYVlmeEF5MXc&resourcekey=0-MdmQXLUD4JhQnxXcitRAew" width="240" alt="19xx - M498 - 8 X 1 - Schematic.jpg"></a><br><sub>19xx - M498 - 8 X 1 - Schematic · <a href="SCHEMATICS/19xx%20-%20M498%20-%208%20X%201%20-%20Schematic%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1EM_QWnJ-EHbsow6ZKiUSpy-8G_yqNXzj/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1EM_QWnJ-EHbsow6ZKiUSpy-8G_yqNXzj" width="240" alt="19xx - M498 - DOC - 600-02-005 - LINE SELECTORS SCHEMA TIC.png"></a><br><sub>19xx - M498 - DOC - 600-02-005 - LINE SELECTORS SCHEMA TIC · <a href="SCHEMATICS/19xx%20-%20M498%20-%20DOC%20-%20600-02-005%20-%20LINE%20SELECTORS%20SCHEMA%20TIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1uNZQpFQsRJmutVdnGzn-J-Fj0CyRnUUP/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1uNZQpFQsRJmutVdnGzn-J-Fj0CyRnUUP" width="240" alt="2006 - M498 - DOC - 920063-01-001 - MONIORMQDULE SWTCHED DIRECT SSUE REMSION.jpg"></a><br><sub>2006|39 · DOC - 920063-01-001 - MONIORMQDULE SWTCHED DIRECT SSUE REMSION · <a href="SCHEMATICS/2006%20-%20M498%20-%20DOC%20-%20920063-01-001%20-%20MONIORMQDULE%20SWTCHED%20DIRECT%20SSUE%20REMSION%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1978 - 498-01-001 - 8X1 STEREO SWITCHER MODULE FUNCTIONAL DIAGRAM - DRN P. Mahoney - ISS 1.jpg`, `19xx - 498-02-005 - M498D MONO PRESELECTOR MODULE SCHEMATIC - ISS 1.png`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
-
-Not on Google Drive yet: `M498 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -100,7 +93,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [2006 - M498 - DOC - 920063-01-001 - MONIORMQDULE SWTCHED DIRECT SSUE REMSION.kicad_sch](KICAD/2006%20-%20M498%20-%20DOC%20-%20920063-01-001%20-%20MONIORMQDULE%20SWTCHED%20DIRECT%20SSUE%20REMSION.kicad_sch)
 - [M498 - 8 X 1 - Functional Diagram.kicad_sch](KICAD/M498%20-%208%20X%201%20-%20Functional%20Diagram.kicad_sch)
 - [M498.kicad_sym](KICAD/M498.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
