@@ -1,6 +1,6 @@
 # M498 Stereo Selector · Routing
 
-Ward-Beck Systems M498, 1978|11. Wiki page: [M498 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M498.html)
+Ward-Beck Systems M498, 1978|11. Wiki page: [M498 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.ROUTING.M498-Stereo-Selector/)
 
 | Folder | What is in it | Files |
 |---|---|---|

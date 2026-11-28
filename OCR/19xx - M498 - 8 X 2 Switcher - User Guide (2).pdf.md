@@ -1,5 +1,5 @@
 # 19xx - M498 - 8 X 2 Switcher - User Guide (2).pdf
-Wiki page: [M498](../../../../PAGES/M498.md)
+Wiki page: [M498](../)
 
 
 - **Year:** unknown (unknown)

@@ -1,5 +1,5 @@
 # 19xx - M498 - Stereo Setector_small.jpg
-Wiki page: [M498](../../../../PAGES/M498.md)
+Wiki page: [M498](../)
 
 
 - **Year:** unknown (unknown)

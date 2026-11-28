@@ -1,5 +1,5 @@
 # 19xx - M498 - 498-04-003 - STEREO SWITCHER MODULE FRONT PANEL.jpg
-Wiki page: [M498](../../../../PAGES/M498.md)
+Wiki page: [M498](../)
 
 
 - **Year:** unknown (unknown)

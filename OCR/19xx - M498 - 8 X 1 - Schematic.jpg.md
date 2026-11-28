@@ -1,5 +1,5 @@
 # 19xx - M498 - 8 X 1 - Schematic.jpg
-Wiki page: [M498](../../../../PAGES/M498.md)
+Wiki page: [M498](../)
 
 
 - **Year:** unknown (unknown)

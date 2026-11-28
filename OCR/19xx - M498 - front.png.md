@@ -1,5 +1,5 @@
 # 19xx - M498 - front.png
-Wiki page: [M498](../../../../PAGES/M498.md)
+Wiki page: [M498](../)
 
 
 - **Year:** unknown (unknown)

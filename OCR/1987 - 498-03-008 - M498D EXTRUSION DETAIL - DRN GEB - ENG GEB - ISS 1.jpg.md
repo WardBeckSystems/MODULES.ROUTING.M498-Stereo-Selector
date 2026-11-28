@@ -1,5 +1,5 @@
 # 1987 - 498-03-008 - M498D EXTRUSION DETAIL - DRN GEB - ENG GEB - ISS 1.jpg
-Wiki page: [M498](../../../../PAGES/M498.md)
+Wiki page: [M498](../)
 
 
 - **Year:** 1987 (title block date)

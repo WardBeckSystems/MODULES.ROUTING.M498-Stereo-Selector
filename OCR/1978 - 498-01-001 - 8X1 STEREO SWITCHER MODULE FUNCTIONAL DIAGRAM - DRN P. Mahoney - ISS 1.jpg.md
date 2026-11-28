@@ -1,5 +1,5 @@
 # 1978 - 498-01-001 - 8X1 STEREO SWITCHER MODULE FUNCTIONAL DIAGRAM - DRN P. Mahoney - ISS 1.jpg
-Wiki page: [M498](../../../../PAGES/M498.md)
+Wiki page: [M498](../)
 
 
 - **Year:** 1978 (title block date)

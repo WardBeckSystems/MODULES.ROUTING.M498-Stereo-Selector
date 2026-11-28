@@ -1,5 +1,5 @@
 # 19xx - 498-02-005 - M498D MONO PRESELECTOR MODULE SCHEMATIC - ISS 1.png
-Wiki page: [M498](../../../../PAGES/M498.md)
+Wiki page: [M498](../)
 
 
 - **Year:** unknown (title block (read by eye))
